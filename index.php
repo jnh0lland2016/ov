@@ -103,7 +103,7 @@
   
   <div class="container">
     <div class="row">
-      <p style="font-size:20px; font-weight:bold; background: rgba(225, 225, 225, .2)" class="">
+      <p style="font-size:20px; font-weight:bold; background: rgba(225, 225, 225, .1)" class="">
         Use the following link to view the document(s) shared with you for best performance.
       </p>
       </div>
